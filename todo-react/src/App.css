@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  
+}
+body{
+ 
+  color:rgb(209, 158, 64)
+
 }
 
 .App-logo {
@@ -35,4 +41,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.plus-button {
+	border: 2px solid lightgrey;
+	background-color: #fff;
+	font-size: 16px;
+	height: 2.5em;
+	width: 2.5em;
+	border-radius: 999px;
+	position: relative;
+	
+
 }
